@@ -17,38 +17,38 @@ class MyApp < Sinatra::Base
   end
   
   get '/doors/doors1' do
-    erb :doors1
+    erb :"doors/doors1"
   end
   get '/doors/doors2' do
-    erb :doors2
+    erb :"doors/doors2"
   end
    get '/doors/doors3' do
-    erb :doors3
+     erb :"doors/doors3"
   end
   
    get '/doors/doors4' do
-    erb :doors4
+     erb :"doors/doors4"
   end
    get '/doors/doors5' do
-    erb :doors5
+     erb :"doors/doors5"
   end
    get '/doors/doors6' do
-    erb :doors6
+     erb :"doors/doors6"
   end
    get '/doors/doors7' do
-    erb :doors7
+     erb :"doors/doors7"
   end
    get '/doors/doors8' do
-    erb :doors8
+     erb :"doors/doors8"
   end
   get '/doors/cdoors1' do
-    erb :cdoors1
+    erb :"doors/cdoors1"
   end
    get '/doors/doorsc2' do
-    erb :doorsc2
+     erb :"doors/doorsc2"
   end
   get '/doors/finishline' do
-    erb :finishline
+    erb :"doors/finishline"
   end
   
   post '/lo_t_results' do
