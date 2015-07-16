@@ -4,6 +4,7 @@ body {
     background-attachment: fixed;
     background-size:cover;
     background-position: center;
+    font-family: 'Lobster', helvetica, arial;
 }
 
 button {
@@ -19,5 +20,6 @@ button {
 p{
       color:White;
   position: relative;
+  font-family: 'Lobster', helvetica, arial;
       
 }
