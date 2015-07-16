@@ -41,6 +41,16 @@ class MyApp < Sinatra::Base
    get 'doors/doors8' do
     erb :doors8
   end
+  get 'doors/cdoors1' do
+    erb :cdoors1
+  end
+   get 'doors/doorsc2' do
+    erb :doorsc2
+  end
+  get 'doors/finishline' do
+    erb :finishline
+  end
+  
   post '/lo_t_results' do
     if params[:missingnumber] == "15"
       erb :waldo
