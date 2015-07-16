@@ -11,5 +11,7 @@ class MyApp < Sinatra::Base
   get '/urbanization' do
     erb :urbanization
   end
-
+  get '/lost' do
+    erb :lost
+  end
 end

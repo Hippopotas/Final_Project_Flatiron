@@ -1,9 +1,9 @@
 body {
     background-image: url("http://i.imgur.com/QfdJ7Fy.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size:cover;
-  background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
 }
 
 button {
@@ -17,3 +17,6 @@ button {
     border: none !important;
     font-size:0;
   }
+p{
+      color:White;
+}
