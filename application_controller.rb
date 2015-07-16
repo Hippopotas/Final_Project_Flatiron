@@ -7,5 +7,9 @@ class MyApp < Sinatra::Base
   get '/' do
     erb :index
   end
-end
   
+  get '/urbanization' do
+    erb :urbanization
+  end
+
+end
