@@ -15,3 +15,10 @@ http://peacefulwarriors.net/wp-content/uploads/2015/05/o-GROCERY-STORE-facebook.
 
 Riddle 1: urbanization
 Riddle 2: 
+
+
+
+The Journey: http://salisasaki.com/home/wp-content/uploads/2012/11/1-1024x723.jpg
+
+
+END SCREEN: http://i.kinja-img.com/gawker-media/image/upload/s---BlT0FKu--/c_fit,fl_progressive,q_80,w_636/189s76onur2j1jpg.jpg
