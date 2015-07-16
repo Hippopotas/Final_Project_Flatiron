@@ -11,7 +11,16 @@ class MyApp < Sinatra::Base
   get '/urbanization' do
     erb :urbanization
   end
-  get '/lost' do
-    erb :lost
+  
+  get '/lo_t' do
+    erb :lo_t
+  end
+  
+  post '/lo_t_results' do
+    if params[:missingnumber] == "15"
+      erb :waldo
+    else
+      erb :lo_tfail
+    end
   end
 end
