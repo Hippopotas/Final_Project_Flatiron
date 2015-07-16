@@ -12,3 +12,6 @@ http://legendsrevealed.com/entertainment/wp-content/uploads/2009/06/atthebeach.j
 http://servicemasterofcharleston.com/wp-content/uploads/images/Hoarding_www_choosehelp_com.jpg
 
 http://peacefulwarriors.net/wp-content/uploads/2015/05/o-GROCERY-STORE-facebook.jpg
+
+Riddle 1: urbanization
+Riddle 2: 
