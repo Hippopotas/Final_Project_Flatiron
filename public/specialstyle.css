@@ -1,0 +1,19 @@
+p{
+  display:inline;
+}
+
+p.shade1{
+  color=#CCCCCC;
+}
+
+p.shade2{
+  color=#999999;
+}
+
+p.shade3{
+  color=#666666;
+}
+
+p.shade4{
+  color=#333333;
+}
