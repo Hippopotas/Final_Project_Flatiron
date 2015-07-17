@@ -33,8 +33,18 @@ h6{
   
 }
 p{
-  ffont-family: Papyrus, fantasy;
+  font-family: Papyrus, fantasy;
 	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+  color:white;
+}
+
+label{
+  color:white;
+  font-family: Papyrus, fantasy;
+	font-size: 18px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
