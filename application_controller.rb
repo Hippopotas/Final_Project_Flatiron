@@ -61,5 +61,8 @@ class MyApp < Sinatra::Base
     else
       erb :lo_tfail
     end
+    get '/endgame' do
+      erb :Endgame
+    end
   end
 end
