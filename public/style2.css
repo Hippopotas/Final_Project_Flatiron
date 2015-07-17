@@ -2,19 +2,41 @@ Body {
   background-color:black;
 }
 h1{
+  font-family:Papyrus, fantasy;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
   color:white; 
 }
 h2{
+  font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-size: 45px;
+	font-style: normal;
+	font-variant: normal;
   color:white
 }
 h3 {
+  font-family: Papyrus, fantasy;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
 color: Red;  
 }
 h6{
+  font-family: Papyrus, fantasy;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
   color: lightgreen;
   
 }
 p{
-  
+  ffont-family: Papyrus, fantasy;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
   color:white;
 }

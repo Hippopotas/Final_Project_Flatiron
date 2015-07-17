@@ -5,6 +5,9 @@ body {
     background-size:cover;
     background-position: center;
     font-family: 'Lobster', helvetica, arial;
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	  font-style: normal;
+	  font-variant: normal;
 }
 
 button {
