@@ -1,19 +1,16 @@
+Body {
+  background-color:black;
+}
+
+h2{
+  font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-size: 45px;
+	font-style: normal;
+	font-variant: normal;
+  color:white
+}
+
 p{
   display:inline;
-}
-
-p.shade1{
-  color=#CCCCCC;
-}
-
-p.shade2{
-  color=#999999;
-}
-
-p.shade3{
-  color=#666666;
-}
-
-p.shade4{
-  color=#333333;
+  color:#444444;
 }
