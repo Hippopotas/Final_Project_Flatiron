@@ -63,7 +63,14 @@ class MyApp < Sinatra::Base
     end
    
   end
-   get '/endgame' do
+  
+  get '/colors' do
+    erb :colors
+  end
+  
+  post 'color_results' do
+    if params[:q1] == "red" and params[:q2] == "blue" and params[:q3] == "red" and params[:q4] == "yellow"
       erb :endgame
+    else
     end
 end
